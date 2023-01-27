@@ -1,6 +1,8 @@
 01- Ejemplo de automatización de navegador, clickeando en input de tipo radio button
+    
+    
     Instalación de Selenium:
-      pip install -U selenium
+        pip install -U selenium
     Drivers:
         Chrome:
           https://chromedriver.chromium.org/downloads
