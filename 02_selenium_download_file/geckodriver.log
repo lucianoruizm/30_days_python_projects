@@ -1,0 +1,578 @@
+1675384268391	geckodriver	INFO	Listening on 127.0.0.1:54472
+1675384283685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileLT8Nwd"
+1675384284343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675384284350	Marionette	INFO	Listening on port 54482
+Read port: 54482
+WebDriver BiDi listening on ws://127.0.0.1:54473
+1675384284736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: "Skipping device list refresh; not signed in"
+1675384286035	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.info: "Skipping device list refresh; not signed in"
+DevTools listening on ws://127.0.0.1:54473/devtools/browser/28cdeef9-9a62-4c1b-9d49-b3349b75aae9
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-pdf-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+1675384469851	Marionette	INFO	Stopped listening on port 54482
+Dynamically enable window occlusion 1
+1675384487550	geckodriver	INFO	Listening on 127.0.0.1:54606
+1675384502219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileGGCTS3"
+1675384503346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675384503438	Marionette	INFO	Listening on port 54614
+Read port: 54614
+WebDriver BiDi listening on ws://127.0.0.1:54607
+1675384503825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1675384506090	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+DevTools listening on ws://127.0.0.1:54607/devtools/browser/e6fa0ab8-9187-4177-a588-cc7339581b9e
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 7683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-pdf-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 2612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675384656693	Marionette	INFO	Stopped listening on port 54614
+Dynamically enable window occlusion 1
+1675384666963	geckodriver	INFO	Listening on 127.0.0.1:54753
+1675384681536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofilef8uWMY"
+1675384682503	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675384682554	Marionette	INFO	Listening on port 54761
+Read port: 54761
+WebDriver BiDi listening on ws://127.0.0.1:54754
+1675384682772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: "Skipping device list refresh; not signed in"
+console.info: "Skipping device list refresh; not signed in"
+1675384684181	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+DevTools listening on ws://127.0.0.1:54754/devtools/browser/216d1818-2b53-4f5e-88dc-1e335b0c08b5
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 15348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 7028 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-pdf-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 7454 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 6191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+1675384735959	Marionette	INFO	Stopped listening on port 54761
+Dynamically enable window occlusion 1
+1675385038537	geckodriver	INFO	Listening on 127.0.0.1:54901
+1675385054695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileEoV7uS"
+1675385055298	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675385055303	Marionette	INFO	Listening on port 54914
+Read port: 54914
+WebDriver BiDi listening on ws://127.0.0.1:54902
+1675385055451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: "Skipping device list refresh; not signed in"
+console.info: "Skipping device list refresh; not signed in"
+1675385056847	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+DevTools listening on ws://127.0.0.1:54902/devtools/browser/77916ee1-df41-407b-adce-608dc0e9cad5
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-pdf-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+1675385141767	Marionette	INFO	Stopped listening on port 54914
+Dynamically enable window occlusion 1
+1675385192552	geckodriver	INFO	Listening on 127.0.0.1:61083
+1675385206389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileKJGaed"
+1675385206669	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675385206674	Marionette	INFO	Listening on port 61091
+Read port: 61091
+WebDriver BiDi listening on ws://127.0.0.1:61084
+1675385206820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1675385207917	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+DevTools listening on ws://127.0.0.1:61084/devtools/browser/ee6e346c-f2eb-43b7-a90d-7f5b53ffa836
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-pdf-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 6487 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://file-examples.com."
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1675385262846	Marionette	INFO	Stopped listening on port 61091
+Dynamically enable window occlusion 1
+1675385469337	geckodriver	INFO	Listening on 127.0.0.1:51420
+1675385484752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofilevF0cYL"
+1675385485371	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675385485375	Marionette	INFO	Listening on port 51428
+Read port: 51428
+WebDriver BiDi listening on ws://127.0.0.1:51421
+1675385485522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: "Skipping device list refresh; not signed in"
+console.info: "Skipping device list refresh; not signed in"
+1675385486701	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+DevTools listening on ws://127.0.0.1:51421/devtools/browser/f0551adb-4fb0-4961-aa90-1834e5d4429c
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 5735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-doc-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 6373 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 3572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/02/file-sample_100kB.doc
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: ({})
+1675385520587	Marionette	INFO	Stopped listening on port 51428
+Dynamically enable window occlusion 1
+1675385787697	geckodriver	INFO	Listening on 127.0.0.1:59602
+1675385804689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofile03aSc7"
+1675385805546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675385805574	Marionette	INFO	Listening on port 59617
+Read port: 59617
+WebDriver BiDi listening on ws://127.0.0.1:59603
+1675385805933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: "Skipping device list refresh; not signed in"
+1675385807171	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.info: "Skipping device list refresh; not signed in"
+DevTools listening on ws://127.0.0.1:59603/devtools/browser/d25ef78c-7d56-4803-835d-cbe00858592c
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 6830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\BATLUC~1\AppData\Local\Temp\rust_mozprofile03aSc7\thumbnails) because it does not exist
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-doc-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/02/file-sample_100kB.doc
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: ({})
+1675385921728	Marionette	INFO	Stopped listening on port 59617
+Dynamically enable window occlusion 1
+1675385924863	geckodriver	INFO	Listening on 127.0.0.1:59739
+1675385939304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofile6VF1mY"
+1675385939571	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675385939576	Marionette	INFO	Listening on port 59747
+Read port: 59747
+WebDriver BiDi listening on ws://127.0.0.1:59740
+1675385939724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1675385940692	Sync.ErrorHandler	ERROR	Sync encountered a login error
+console.info: "Skipping device list refresh; not signed in"
+console.error: "Sync encountered an error - see about:sync-log for the log file."
+DevTools listening on ws://127.0.0.1:59740/devtools/browser/5dd07a64-886c-4156-a801-d999f230d3c4
+JavaScript error: moz-extension://1edfa93d-fc63-47ec-9da5-d7c7f5893db0/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-doc-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/uploads/2017/02/file-sample_100kB.doc
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: ({})
+1675385959660	Marionette	INFO	Stopped listening on port 59747
+Dynamically enable window occlusion 1
+1675386726532	geckodriver	INFO	Listening on 127.0.0.1:59985
+1675386729589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofilepXKbN0"
+1675386730227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675386730232	Marionette	INFO	Listening on port 59993
+Read port: 59993
+WebDriver BiDi listening on ws://127.0.0.1:59986
+1675386730380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofilepXKbN0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59986/devtools/browser/f40f1669-773a-4542-bb9f-9fa01d15d3c8
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 821 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675386786592	Marionette	INFO	Stopped listening on port 59993
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675386791498	geckodriver	INFO	Listening on 127.0.0.1:53355
+1675386794523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileOmHH9K"
+1675386794817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675386794823	Marionette	INFO	Listening on port 53363
+Read port: 53363
+WebDriver BiDi listening on ws://127.0.0.1:53356
+1675386794971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileOmHH9K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53356/devtools/browser/f2c63254-8841-4364-a1fc-a50691a4cfa8
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 701 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 2054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 6482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 7199 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675386819466	Marionette	INFO	Stopped listening on port 53363
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675386853525	geckodriver	INFO	Listening on 127.0.0.1:52870
+1675386856557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileR1rjeo"
+1675386856859	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675386856864	Marionette	INFO	Listening on port 52878
+Read port: 52878
+WebDriver BiDi listening on ws://127.0.0.1:52871
+1675386857011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileR1rjeo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52871/devtools/browser/c73b102f-0660-43dc-967c-71a0f0bd89a4
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 1761 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 6561 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 2469 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 1226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675386881877	geckodriver	INFO	Listening on 127.0.0.1:53004
+1675386884940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileeOGnE6"
+1675386885233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675386885239	Marionette	INFO	Listening on port 53012
+Read port: 53012
+WebDriver BiDi listening on ws://127.0.0.1:53005
+1675386885387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofileeOGnE6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53005/devtools/browser/2fb4a8b8-8ab1-424f-a74f-928a12829ca9
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 7243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 5839 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-doc-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 4330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 290 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675386937940	geckodriver	INFO	Listening on 127.0.0.1:53123
+1675386941000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofiles2NzfX"
+1675386941301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675386941307	Marionette	INFO	Listening on port 53131
+Read port: 53131
+WebDriver BiDi listening on ws://127.0.0.1:53124
+1675386941466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofiles2NzfX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53124/devtools/browser/9715712f-66d0-43d1-bb51-fc06c8feeddc
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 2087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+" "C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofile9DNUld"
+1675386998858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675386998865	Marionette	INFO	Listening on port 53270
+Read port: 53270
+WebDriver BiDi listening on ws://127.0.0.1:53263
+1675386999017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BATLUC~1\\AppData\\Local\\Temp\\rust_mozprofile9DNUld\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53263/devtools/browser/56d4d7db-6e94-4e1e-a602-b7be645a6047
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js, line 2: Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-documents-download/sample-doc-download/
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 7184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 1661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qd5KMEVePpT1ECIYP18qBYKfQjivfqNOtA0cTjFsQVM.js line 2 > eval line 1779 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
